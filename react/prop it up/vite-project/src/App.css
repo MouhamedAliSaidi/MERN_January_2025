@@ -1,0 +1,24 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+
+}
+.name-b {
+  font-weight: bold;
+  gap: 5px;
+}
+
+.age-b {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.hairColor-b {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+
